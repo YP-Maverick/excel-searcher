@@ -7,7 +7,6 @@ import ru.maverick.excelsearcher.exceptions.InvalidInputException;
 import ru.maverick.excelsearcher.utils.QuickSorter;
 
 import java.io.IOException;
-import java.io.InputStream;
 import java.util.List;
 
 @Service

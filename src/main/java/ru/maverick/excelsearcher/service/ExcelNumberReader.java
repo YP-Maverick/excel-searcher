@@ -1,6 +1,5 @@
 package ru.maverick.excelsearcher.service;
 
-import com.fasterxml.jackson.databind.exc.InvalidFormatException;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.springframework.stereotype.Component;
