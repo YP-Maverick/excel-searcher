@@ -6,7 +6,7 @@ mvn clean install
 
 Запуск:
 ```bash
-java -jar target/excel-searcher-1.0.0.jar
+java -jar target/excel-searcher-0.0.1-SNAPSHOT.jar
 ```
 Доступ к Swagger:
 После запуска откройте в браузере:
